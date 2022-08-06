@@ -1,0 +1,18 @@
+#ThirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 2px solid mediumblue;
+
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+h1 {
+    color:crimson;
+}
+img {
+    width: 400px;
+}
