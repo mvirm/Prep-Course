@@ -1,0 +1,47 @@
+img {
+    width: 120px;
+    margin: 20px;
+}
+.fondo {
+    background-color: pink;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.posicion {
+    -webkit-flex: 1;
+    flex: 1;  
+}
+
+.margen2 {
+    margin-left: 20px; 
+}
+
+.fondo1 {
+    background-color: aqua;
+    display: -webkit-flex;
+    display: flex;
+}
+.fondo2 {
+    background-color: aquamarine;
+    display: -webkit-flex;
+    display: flex;
+}
+
+h1 {
+    color:darkblue;    
+}
+
+h2 {
+    color:darkblue;
+    font-size: 30px;
+}
+
+h3 {
+    width: 300px;
+    margin: 20px;   
+}
+p {
+    margin-left: 20px;
+    margin-right: 30px;
+}
