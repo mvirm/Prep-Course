@@ -1,9 +1,30 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMxnu6WXZo9ZJRaCSr-Cu1DSVeHccAB3c0g&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.posicionamiento {
+    height: 800px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+
+
 #ThirdDiv {
     height: 600px;
     width: 500px;
     background-color: aquamarine;
     padding: 50px;
-    border: 2px solid mediumblue;
+    border: 5px solid mediumblue;
 
 }
 #spanId {
@@ -11,7 +32,7 @@
     margin: 50px;
 }
 h1 {
-    color:crimson;
+    color: midnightblue;
 }
 img {
     width: 400px;
